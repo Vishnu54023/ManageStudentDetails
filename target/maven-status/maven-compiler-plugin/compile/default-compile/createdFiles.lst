@@ -1,0 +1,6 @@
+com\conn\DBConnect.class
+com\servlet\Register.class
+com\dao\StudentDAO.class
+com\servlet\DeleteServlet.class
+com\entity\Student.class
+com\servlet\UpdateServlet.class
